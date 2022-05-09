@@ -5,6 +5,9 @@ Finally, in September 2021, I decided to make software development my profession
 So, I took a FullStack development bootcamp and now that I finished it, I feel much more confident that this dream can come true.
 Never stop dreaming
 
+- 🔭 I’m currently improving data visualization in a full-stack CRM project with React+MySQL+Symfony stack.
+- 🌱 I’m currently learning D3.js library for visualization data, PHP 8.1, Symfony 6 and Docker.
+
 
 
 <!--
